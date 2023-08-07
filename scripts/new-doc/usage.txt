@@ -1,0 +1,6 @@
+usage:
+  new-doc <template> <name>
+
+$1: template name
+$2: document name
+  a new folder with this name will be created
